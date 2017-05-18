@@ -1,0 +1,11 @@
+{
+  "name": "node-advanced",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eugene Kagan",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
