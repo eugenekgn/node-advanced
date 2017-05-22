@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Eugene Kagan",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KargoGlobal/node-advanced.git"
+  },
   "license": "MIT",
   "dependencies": {
     "fs": "^0.0.1-security",
